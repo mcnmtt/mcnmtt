@@ -23,14 +23,12 @@ curriculum **Data Science & Machine Learning**.
 
 ## 📚 Attualmente sto lavorando su:
 - Progetti di **generative AI** (Stable Diffusion, LLMs)
-- **Ottimizzazione dei modelli** per efficienza e riduzione dell'impatto ambientale
-- **Sistemi di tracciamento delle emissioni** durante il training
-
+- Data analysis e pre-processing per **training** di modelli.
 ---
 
 ## 📫 Contatti
-- **Email**: [Inserisci la tua email se vuoi renderla pubblica]
-- **LinkedIn**: [Inserisci il link al tuo profilo LinkedIn se vuoi]
+- **Email**: m.maucioni@studenti.unisa.it
+- **LinkedIn**: https://www.linkedin.com/in/mattia-maucioni/
 
 ---
 
