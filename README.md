@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋🏻 Ciao! Sono Mattia Maucioni
 
-<!--
-**mcnmtt/mcnmtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Attualmente studente magistrale in **Informatica** presso l'**Università di Salerno**,  
+curriculum **Data Science & Machine Learning**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Su di me
+- Appassionato di **AI**, **Deep Learning** e **Computer Vision**.
+- Mi piace combinare **teoria** e **pratica** attraverso progetti concreti.
+- Curioso per natura, sempre alla ricerca di **nuove tecnologie** da sperimentare.
+
+---
+
+## 🛠️ Competenze principali
+- **Python** (PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy)
+- **Data Science** (Machine Learning, Deep Learning, NLP)
+- **Computer Vision** (OpenCV, Diffusion Models, Structure from Motion)
+- **MLOps & Deployment** (TensorRT, ONNX, Docker basics)
+- **Database** (SQL, MongoDB)
+
+---
+
+## 📚 Attualmente sto lavorando su:
+- Progetti di **generative AI** (Stable Diffusion, LLMs)
+- **Ottimizzazione dei modelli** per efficienza e riduzione dell'impatto ambientale
+- **Sistemi di tracciamento delle emissioni** durante il training
+
+---
+
+## 📫 Contatti
+- **Email**: [Inserisci la tua email se vuoi renderla pubblica]
+- **LinkedIn**: [Inserisci il link al tuo profilo LinkedIn se vuoi]
+
+---
+
+> "Learning never exhausts the mind." – Leonardo da Vinci
