@@ -16,16 +16,10 @@ curriculum **Data Science & Machine Learning**.
 - **Python** (PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy)
 - **Data Science** (Machine Learning, Deep Learning, NLP)
 - **Computer Vision** (OpenCV, Diffusion Models, Structure from Motion)
-- **MLOps & Deployment** (TensorRT, ONNX, Docker basics)
+- **MLOps & Deployment** (ONNX, Docker basics)
 - **Database** (SQL, MongoDB)
 
 ---
-
-## 📚 Attualmente sto lavorando su:
-- Progetti di **generative AI** (Stable Diffusion, LLMs)
-- Data analysis e pre-processing per **training** di modelli.
----
-
 ## 📫 Contatti
 - **Email**: m.maucioni@studenti.unisa.it
 - **LinkedIn**: https://www.linkedin.com/in/mattia-maucioni/
