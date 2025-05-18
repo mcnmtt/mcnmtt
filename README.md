@@ -14,9 +14,7 @@ curriculum **Data Science & Machine Learning**.
 
 ## 🛠️ Competenze principali
 - **Python** (PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy)
-- **Data Science** (Machine Learning, Deep Learning, NLP)
-- **Computer Vision** (OpenCV, Diffusion Models, Structure from Motion)
-- **MLOps & Deployment** (ONNX, Docker basics)
+- **Computer Vision** (OpenCV, Diffusion Models)
 - **Database** (SQL, MongoDB)
 
 ---
