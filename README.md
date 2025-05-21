@@ -1,7 +1,8 @@
 # 👋🏻 Ciao! Sono Mattia Maucioni
 
-🎓 Attualmente studente magistrale in **Informatica** presso l'**Università di Salerno**,  
+- 🎓 Studente magistrale in **Informatica** presso l'**Università di Salerno**,  
 curriculum **Data Science & Machine Learning**.
+- 💼 Co-Founder of [Germen S.r.l.](https://www.linkedin.com/company/germenstartup) an innovative startup in the Agritech sector.
 
 ---
 
