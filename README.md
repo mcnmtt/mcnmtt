@@ -1,25 +1,25 @@
-# 👋🏻 Ciao! Sono Mattia Maucioni
+# 👋🏻 Ciao! I'm Mattia Maucioni
 
-- 🎓 Studente magistrale in **Informatica** presso l'**Università di Salerno**,  
-curriculum **Data Science & Machine Learning**.
-- 💼 Co-Founder of [Germen S.r.l.](https://www.linkedin.com/company/germenstartup) an innovative startup in the Agritech sector.
-
----
-
-## 🚀 Su di me
-- Appassionato di **AI**, **Deep Learning** e **Computer Vision**.
-- Mi piace combinare **teoria** e **pratica** attraverso progetti concreti.
-- Curioso per natura, sempre alla ricerca di **nuove tecnologie** da sperimentare.
+- 🎓 Master's student in **Computer Science** at the **University of Salerno**,
+specializing in **Data Science & Machine Learning**.
+- 💼 Co-Founder of **[Germen S.r.l.](https://www.linkedin.com/company/germenstartup)** an innovative startup in the Agritech sector.
 
 ---
 
-## 🛠️ Competenze principali
+## 🚀 About me
+- Passionate about AI, Deep Learning, and Computer Vision.
+- I enjoy combining theory and practice through hands-on projects.
+- Naturally curious, always looking for new technologies to explore.
+
+---
+
+## 🛠️ Main competences
 - **Python** (PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy)
 - **Computer Vision** (OpenCV, Diffusion Models)
 - **Database** (SQL, MongoDB)
 
 ---
-## 📫 Contatti
+## 📫 Contacts
 - **Email**: m.maucioni@studenti.unisa.it
 - **LinkedIn**: https://www.linkedin.com/in/mattia-maucioni/
 
