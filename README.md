@@ -84,7 +84,7 @@ That drive is what led me to co-found Germen S.r.l., bringing AI-powered solutio
 ---
 
 ## 📫 Contacts
-- 📧 Email: contact@mattiamaucioni.it  
+- 📧 Email: m.maucioni@studenti.unisa.it  
 - 💼 LinkedIn: [mattia-maucioni](https://www.linkedin.com/in/mattia-maucioni/)  
 - 🌱 Startup: [Germen S.r.l.](https://www.linkedin.com/company/germenstartup)
 
