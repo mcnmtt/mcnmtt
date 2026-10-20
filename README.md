@@ -12,14 +12,18 @@ That drive is what led me to co-found Germen S.r.l., bringing AI-powered solutio
 ---
 
 ## 🏆 Publication
+**Auditable Selective Multimodal Fusion under Incomplete Information: Matched-Null Evaluation of Cross-Media Evidence and Time-Series Signals**  
+*Multimedia (MDPI)*, 2026, *under review*.  
+**Authors:** Gerardo Iovane, Antonio Landi, **Mattia Maucioni**, Antonio De Rosa, Alessio Rosati, Carmine Ziccardi
+
+**Manifold-Guided Adversarial Attack of Deepfake Detectors via Dual-Branch Autoencoder Projection**  
+*Proceedings of the 34th ACM International Conference on Multimedia (ACM MM '26)*, 2026, *to appear (accepted)*.  
+**Authors:** Stefano Cirillo, Luigi Di Biasi, Giuseppe Genito, **Mattia Maucioni**, Antonio Landi, Dorotea Serrelli, Giandomenico Solimando
+
 **Synthetic Data for Fairness: Bias Mitigation in Facial Attribute Recognition**  
 *IEEE Open Journal of the Computer Society*, Vol. 6, pp. 1703–1714, 2025.  
 **Authors:** Lucia Cascone, Marco Di Maio, Vincenzo Loia, **Mattia Maucioni**, Michele Nappi, Chiara Pero  
 **DOI:** [10.1109/OJCS.2025.3622694](https://doi.org/10.1109/OJCS.2025.3622694)
-
-**Manifold-Guided Adversarial Attack of Deepfake Detectors via Dual-Branch Autoencoder Projection**  
-*Proceedings of the 34th ACM International Conference on Multimedia (ACM MM '26)*, 2026, *to appear*.  
-**Authors:** Stefano Cirillo, Luigi Di Biasi, Giuseppe Genito, **Mattia Maucioni**, Antonio Landi, Dorotea Serrelli, Giandomenico Solimando
 
 ---
 
